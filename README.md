@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)
 <h1 align="center">Hi 👋, I'm Fadi Zoghlami</h1>
 <h3 align="center">A passionate Android, Machine Learning and Front-End Developer</h3>
 <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
