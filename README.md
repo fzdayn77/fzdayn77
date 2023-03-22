@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fadi Zoghlami</h1>
+<h1 align="center">Hi 👋, I'm Fadi</h1>
 <h3 align="center">A passionate Machine Learning, Android and Front-End Developer</h3>
 <img align="right" alt="Coding" width="330" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
