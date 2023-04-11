@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PyTorch and Android**
 
-- 💬 Ask me about **Android, Machine Learning, GNU/Linux**
+- 💬 Ask me about **Android, Machine Learning, Web Development and GNU/Linux**
 
 - 📫 How to reach me **zoghlamifadi77@gmail.com**
 
