@@ -70,7 +70,7 @@
 <br>
 
 <!---Foot--->
-<p align="left">
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=fzdayn77&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fzdayn77" />
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=fzdayn77&show_icons=true&theme=dracula&title_color=79dafa&locale=en" alt="fzdayn77" />
+<p align="center">
+<img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=fzdayn77&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fzdayn77" />&nbsp;
+<img width="330" src="https://github-readme-stats.vercel.app/api?username=fzdayn77&show_icons=true&theme=dracula&title_color=79dafa&locale=en" alt="fzdayn77" />
 </p>
