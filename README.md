@@ -67,5 +67,5 @@
 </ul>
 <br>
 
-<p><img align=left width=400 src="https://github-readme-stats.vercel.app/api?username=fzdayn77&show_icons=true&locale=en" alt="fzdayn77" /></p>
-<p><img align=right width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=fzdayn77&" alt="fzdayn77" /></p>
+<p><img align=left width=400 src="https://github-readme-stats.vercel.app/api?username=fzdayn77&show_icons=true&locale=en" alt="fzdayn77" />
+<img align=right width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=fzdayn77&" alt="fzdayn77" /></p>
