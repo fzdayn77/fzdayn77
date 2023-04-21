@@ -68,7 +68,7 @@
 <br>
 
 <!---Foot--->
-<p align="left">
+<p align="center">
 <img align=left width="400" src="https://github-readme-stats.vercel.app/api?username=fzdayn77&show_icons=true&locale=en" alt="fzdayn77" />
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fzdayn77&" alt="fzdayn77" />
 </p>
