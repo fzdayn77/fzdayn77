@@ -72,5 +72,5 @@
 <!---Foot--->
 <p align="center">
 <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=fzdayn77&show_icons=true&theme=dracula&locale=en&layout=compact" alt="fzdayn77" />
-<img width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=fzdayn77&show_icons=true&theme=dracula&title_color=79dafa&locale=en" alt="fzdayn77" />
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=fzdayn77&show_icons=true&theme=dracula&title_color=79dafa&locale=en" alt="fzdayn77" />
 </p>
