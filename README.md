@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fadi</h1>
-<h3 align="center">A passionate Machine Learning, Android and Front-End Developer</h3>
-<img align="right" alt="Coding" width="330" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<h3 align="center">A passionate Machine Learning, Android and Web Developer</h3>
+<img align="right" alt="Coding" width="300" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **some interesting Deep Learning projects**
+- 🔭 I’m currently working on **my Bachelor thesis**
 
-- 🌱 I’m currently learning **PyTorch and Android**
+- 🌱 I’m currently learning **PyTorch, React and Android**
 
 - 💬 Ask me about **Android, Machine Learning, Web Development and GNU/Linux**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fzdayn77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fzdayn77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fzdayn77" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fzdayn77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
