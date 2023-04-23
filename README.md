@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning, Android and Web Developer</h3>
 <br>
 
-<img align="right" alt="Coding" width="320" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="border-radius: 15px; ">
+<img align="right" alt="Coding" width="320" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **my Bachelor thesis (field : Deep Learning)**
 
