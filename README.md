@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="320" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **my Bachelor thesis (field : Deep Learning)**
+- 🔭 I’m currently working on **my Bachelor thesis (field : Computer Vision)**
 
 - 🌱 I’m currently learning **PyTorch, React and Android**
 
