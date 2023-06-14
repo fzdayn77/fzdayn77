@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fadi</h1>
 <h3 align="center">A passionate Machine Learning, Android and Web Developer</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/fzdayn77/">
+        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin" alt="Linkedin">
+  </a>
+  <a href="https://instagram.com/zfdi.77">
+        <img src="https://img.shields.io/badge/Instagram-lightgrey?style=flat&logo=instagram" alt="Instagram">
+  </a>
+</p>
 <br>
 
 <img align="right" alt="Coding" width="300" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
