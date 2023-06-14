@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning, Android and Web Developer</h3>
 <br>
 
-<img align="right" alt="Coding" width="320" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="Coding" width="300" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **my Bachelor thesis (field : Computer Vision)**
 
@@ -73,6 +73,6 @@
 
 <!-- Foot -->
 <div align="center">
-  <img width="400" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=fzdayn77&show_icons=true&theme=dracula&title_color=ebebe6&locale=en&layout=compact" alt="fzdayn77" />
+  <img width="360" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=fzdayn77&show_icons=true&theme=dracula&title_color=ebebe6&locale=en&layout=compact" alt="fzdayn77" />
   <img width="380" height="160" src="https://github-readme-stats.vercel.app/api?username=fzdayn77&show_icons=true&theme=dracula&title_color=79dafa&locale=en" alt="fzdayn77" />
 </div>
