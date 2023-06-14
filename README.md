@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fzdayn77/">
         <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin" alt="Linkedin">
-  </a>
+  </a>&nbsp;
   <a href="https://instagram.com/zfdi.77">
         <img src="https://img.shields.io/badge/Instagram-lightgrey?style=flat&logo=instagram" alt="Instagram">
   </a>
