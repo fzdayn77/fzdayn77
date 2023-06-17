@@ -11,7 +11,6 @@
 <br>
 
 <img align="right" alt="Coding" width="300" height="230" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-<br>
 
 - 🔭 I’m currently working on **my Bachelor thesis (field : Computer Vision)**
 
