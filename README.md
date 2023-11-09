@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fadi</h1>
+<h2 align="center">Hi 👋, I'm Fadi</h2>
 <h3 align="center">A passionate Machine Learning, Android and Web Developer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fzdayn77/">
